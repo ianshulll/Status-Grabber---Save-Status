@@ -3,9 +3,4 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    <string name="app_id">ca-app-pub-5200686692366657~2411327373</string>
-    <string name="banner_ad_id">ca-app-pub-5200686692366657/4887934011</string>
-    <string name="inter_ad_1">ca-app-pub-5200686692366657/4245840144</string>
-    <string name="inter_ad_2">ca-app-pub-5200686692366657/5966115922</string>
-
 </resources>
