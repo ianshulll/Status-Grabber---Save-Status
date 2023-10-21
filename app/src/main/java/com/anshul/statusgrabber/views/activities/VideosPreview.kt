@@ -109,7 +109,7 @@ class VideosPreview : AppCompatActivity() {
 
         val adRequest = AdRequest.Builder().build()
 
-        InterstitialAd.load(this,"ca-app-pub-5200686692366657/5966115922", adRequest, object :
+        InterstitialAd.load(this,"ca-app-pub-5200686692366657/5966115900", adRequest, object :
             InterstitialAdLoadCallback() {
 
             override fun onAdFailedToLoad(p0: LoadAdError) {
